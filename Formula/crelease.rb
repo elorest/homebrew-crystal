@@ -1,4 +1,4 @@
-class CRelease < Formula
+class Crelease < Formula
   desc "CRelease for managing versioning and tagging."
   homepage "https://github.com/elorest/crelease"
   url "https://github.com/elorest/CRelease/archive/v0.1.2.tar.gz"
