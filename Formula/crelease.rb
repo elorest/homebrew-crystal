@@ -1,4 +1,5 @@
 class Crelease < Formula
+  version 0.1.2
   desc "CRelease for managing versioning and tagging."
   homepage "https://github.com/elorest/crelease"
   url "https://github.com/elorest/CRelease/archive/master.tar.gz"
