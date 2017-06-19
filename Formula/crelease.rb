@@ -15,7 +15,7 @@ class Crelease < Formula
     end
   end
 
-  test do
-    system "#{bin}/crelease", "--version"
-  end
+  # test do
+  #   system "#{bin}/crelease", "--version"
+  # end
 end
