@@ -1,9 +1,8 @@
 class Crelease < Formula
-  version 0.1.2
   desc "CRelease for managing versioning and tagging."
   homepage "https://github.com/elorest/crelease"
   url "https://github.com/elorest/CRelease/archive/master.tar.gz"
-  #sha256 "53cd5a3961658999523ab4045e30512585c61a3a2db0d0015f5414de7d2ffac2"
+  sha256 "2b204f5c2b0cf3b3fcbd0555b0ef0fcfc74785fd3cb19c19b16591c4eb4d6a32"
 
   depends_on "crystal-lang"
   depends_on "openssl"
