@@ -3,7 +3,7 @@ class Crelease < Formula
   version "0.1.3"
   homepage "https://github.com/elorest/crelease"
   url "https://github.com/elorest/CRelease/archive/v#{version}.tar.gz"
-  sha256 "8cc2cacd7d1c78386438037bcb5fa4542244a876269ec88deb5875c8de8c236e"
+  sha256 "87eecd3bfb1e6bf0441695fc87c0d5ae7e4de0560b48af7416fe89ab33b3c68d"
   depends_on "crystal-lang"
 
   def install
