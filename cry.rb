@@ -3,7 +3,7 @@ class Cry < Formula
   version "0.1.1"
   homepage "https://github.com/elorest/cry"
   url "https://github.com/elorest/cry/archive/v#{version}.tar.gz"
-  sha256 "bfd543033dcd1c2021a3fdb7a329b99f44237224cd48b6072a2672305c920f4e"
+  sha256 "f722da1fdbb60f384a03f820d1f23eac7ba29b24ee53eb61bc5a26f41f3e8caf"
   depends_on "crystal-lang"
 
   def install
