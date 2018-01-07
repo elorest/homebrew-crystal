@@ -1,9 +1,9 @@
 class GitDeploy < Formula
   desc "Automated setup for Heroku like git deploy."
-  version "0.1.1"
+  version "0.2.0"
   homepage "https://github.com/elorest/cry"
   url "https://github.com/elorest/git_deploy/archive/v#{version}.tar.gz"
-  sha256 "2eae8e5bebf318c84193a33f9d33a58f5bee11cddba3cb77a3f8d58100329c0e"
+  sha256 "bd34c7d07e15da254d1dda6f38a91ace274623714e4f98e70801f107754c4fd0"
   depends_on "crystal-lang"
 
   def install
