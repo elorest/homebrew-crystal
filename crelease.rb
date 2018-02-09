@@ -1,9 +1,9 @@
 class Crelease < Formula
   desc "CRelease for managing versioning and tagging."
-  version "0.2.0"
+  version "0.3.4"
   homepage "https://github.com/elorest/crelease"
   url "https://github.com/elorest/CRelease/archive/v#{version}.tar.gz"
-  sha256 "bfd543033dcd1c2021a3fdb7a329b99f44237224cd48b6072a2672305c920f4e"
+  sha256 "a6fecf1aeb602e729c42ac247a61eaff9ab797b7a70676cac3b3ff939c1f8508"
   depends_on "crystal-lang"
 
   def install
