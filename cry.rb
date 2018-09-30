@@ -1,9 +1,9 @@
 class Cry < Formula
   desc "Pry like eval for crystal."
-  version "0.3.0"
+  version "0.4.0"
   homepage "https://github.com/elorest/cry"
   url "https://github.com/elorest/cry/archive/v#{version}.tar.gz"
-  sha256 "60ecb9ed0d48dd1e0b062246fa7b28cf0227cc558765d6094b7a6400c1e3e673"
+  sha256 "90879faaf5b7cf311a422ba1f5568ad0bd6ba1a019632bbbfe5f67e293e8a265"
   depends_on "crystal-lang"
 
   def install
