@@ -8,6 +8,7 @@ Application to simpify versioning and releasing crystal projects.
 1. `brew tab elorest/homebrew-crystal`
 1. `brew install crelease`
 1. `brew install cry`
+1. `brew install git_deploy`
 
 ## Contributors
 
